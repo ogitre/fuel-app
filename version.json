@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
-  "url": "bundles/1.0.3.zip",
-  "checksum": "3be7e0e7ff601f974f381e3406b692bea8c37f1e1007e6a879709f21d9e2a217",
-  "notes": "• Faster AI photo analysis: less 'thinking', smaller photo upload.\n• If one Gemini model is slow it switches to a faster one automatically, and remembers it.\n• Shows progress and seconds while analyzing.",
+  "version": "1.0.4",
+  "url": "bundles/1.0.4.zip",
+  "checksum": "333acb42e1c5aafe12db4771225be0e481c308008a2daa1a0b510d71b991f99e",
+  "notes": "• Barcode scanner: fixed the grey camera screen on some phones (retries with simpler camera settings).\n• New: 'Photo' button in the scanner. Snap the barcode and it reads it from the picture.",
   "nativeVersion": 1,
   "apkUrl": "fuel.apk",
-  "date": "2026-10-25T09:43:57.322Z"
+  "date": "2026-10-25T12:27:21.996Z"
 }
