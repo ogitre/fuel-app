@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
-  "url": "bundles/1.0.2.zip",
-  "checksum": "72ed096a8d03f38b8d205b6aa6c00ee80b9f55361a09ee7da719130122898504",
-  "notes": "• New: log food from a photo with AI (Gemini). Set your free key in Settings.\n• Simpler log: no more breakfast/lunch/dinner, just one list per day.",
+  "version": "1.0.3",
+  "url": "bundles/1.0.3.zip",
+  "checksum": "3be7e0e7ff601f974f381e3406b692bea8c37f1e1007e6a879709f21d9e2a217",
+  "notes": "• Faster AI photo analysis: less 'thinking', smaller photo upload.\n• If one Gemini model is slow it switches to a faster one automatically, and remembers it.\n• Shows progress and seconds while analyzing.",
   "nativeVersion": 1,
   "apkUrl": "fuel.apk",
-  "date": "2026-10-25T09:36:54.838Z"
+  "date": "2026-10-25T09:43:57.322Z"
 }
