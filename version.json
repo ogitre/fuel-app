@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
-  "url": "bundles/1.0.1.zip",
-  "checksum": "2f3128a92bd5182c4afd3b4e047743f6cb335443e2bd96a69fcc81d8ffd20cd0",
-  "notes": "First release of Fuel.",
+  "version": "1.0.2",
+  "url": "bundles/1.0.2.zip",
+  "checksum": "72ed096a8d03f38b8d205b6aa6c00ee80b9f55361a09ee7da719130122898504",
+  "notes": "• New: log food from a photo with AI (Gemini). Set your free key in Settings.\n• Simpler log: no more breakfast/lunch/dinner, just one list per day.",
   "nativeVersion": 1,
   "apkUrl": "fuel.apk",
-  "date": "2026-10-25T09:17:57.608Z"
+  "date": "2026-10-25T09:36:54.838Z"
 }
