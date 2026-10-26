@@ -1,9 +1,9 @@
 {
-  "version": "1.0.5",
-  "url": "bundles/1.0.5.zip",
-  "checksum": "55b3f878b981eec7bfd590c4a8fc82a08c09ce6a4ac7bf544f51d569e60f8740",
-  "notes": "• New native barcode scanner (Google). Fixes the camera that never started.\n• This update needs a new APK: tap Get APK, install it over the app. Your data stays.",
-  "nativeVersion": 2,
+  "version": "1.0.6",
+  "url": "bundles/1.0.6.zip",
+  "checksum": "3f72f9fe1ee256cc627422aa40c06ccc3fda8f0b2b2e651260f24d501c91b0ab",
+  "notes": "• New: AI describe. Type what you ate (e.g. '3 eggs, toast, latte') and AI estimates it.\n• Fixed: 'Take photo' now opens the camera instead of the gallery.\n• This update needs a new APK: tap Get APK and install it over the app. Your data stays.",
+  "nativeVersion": 3,
   "apkUrl": "fuel.apk",
-  "date": "2026-10-25T12:33:47.447Z"
+  "date": "2026-10-26T13:25:51.257Z"
 }
