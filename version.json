@@ -1,9 +1,9 @@
 {
-  "version": "1.0.7",
-  "url": "bundles/1.0.7.zip",
-  "checksum": "d82e8892350835c1a61211e0723df75f6bf8b1f7a5ee008c79cba93de9e7ffaf",
-  "notes": "• AI is now one screen: add a photo, a description, or both.\n• Take photo now uses the phone's camera directly (native), so it no longer opens the gallery.\n• This update needs a new APK: tap Get APK and install it over the app. Your data stays.",
+  "version": "1.0.8",
+  "url": "bundles/1.0.8.zip",
+  "checksum": "e7f97302a958f5bf628ea433c5b3d549fccf4b85ab450c7dcf43161e7ac58ea2",
+  "notes": "• Take photo: switched to the proven camera method. If something goes wrong you now see the actual error.\n• If Android closes Fuel while the camera is open, your photo is picked up when the app comes back.",
   "nativeVersion": 4,
   "apkUrl": "fuel.apk",
-  "date": "2026-10-26T13:33:10.482Z"
+  "date": "2026-10-26T13:48:07.413Z"
 }
