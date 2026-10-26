@@ -1,9 +1,9 @@
 {
-  "version": "1.0.8",
-  "url": "bundles/1.0.8.zip",
-  "checksum": "e7f97302a958f5bf628ea433c5b3d549fccf4b85ab450c7dcf43161e7ac58ea2",
-  "notes": "• Take photo: switched to the proven camera method. If something goes wrong you now see the actual error.\n• If Android closes Fuel while the camera is open, your photo is picked up when the app comes back.",
-  "nativeVersion": 4,
+  "version": "1.0.9",
+  "url": "bundles/1.0.9.zip",
+  "checksum": "f942d58339e3a39f6b9fcfddc1b7fca77908a82d04bfb785b9673799d92a15d0",
+  "notes": "• Take photo now uses a camera built into Fuel, so it works even if your phone's camera app can't be opened by other apps.\n• This update needs a new APK: tap Get APK and install it over the app. Your data stays.",
+  "nativeVersion": 5,
   "apkUrl": "fuel.apk",
-  "date": "2026-10-26T13:48:07.413Z"
+  "date": "2026-10-26T13:59:16.517Z"
 }
