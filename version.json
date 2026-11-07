@@ -1,9 +1,9 @@
 {
-  "version": "1.0.10",
-  "url": "bundles/1.0.10.zip",
-  "checksum": "962b1385c0ba7ec6407a87b56f0ab06e66060a22d5db5a6c8e2b08ec5d2094de",
-  "notes": "• Easier protein goal: default is now 1.6 g per kg (was up to 2.0). Plenty for muscle and cheaper.\n• New: choose Budget, Standard or High protein in Settings → Profile & goal.\n• Weekly grade is more forgiving: 90% of your protein goal counts as hit, and calories within ±10% are on target.\n• If you set your own targets, they stay as they are.",
+  "version": "1.0.11",
+  "url": "bundles/1.0.11.zip",
+  "checksum": "bbda07d9dd9127b71e02427e5a313fbbe5d4de302541708e4ee036f2a68b87cd",
+  "notes": "• New: paste your workout plan and daily routine and AI picks your activity level and protein target. In Settings → Profile & goal → Activity → 'Let AI decide'.",
   "nativeVersion": 5,
   "apkUrl": "fuel.apk",
-  "date": "2026-11-07T15:12:11.607Z"
+  "date": "2026-11-07T15:53:31.872Z"
 }
