@@ -1,9 +1,9 @@
 {
-  "version": "1.0.13",
-  "url": "bundles/1.0.13.zip",
-  "checksum": "236b080851049b576ccace73d234f141fce147bb42079dc00b7ec1264704539d",
-  "notes": "• Weekly grade no longer drops in the morning: today only counts once the day is over.",
+  "version": "1.0.14",
+  "url": "bundles/1.0.14.zip",
+  "checksum": "46d1d2baaee0dcd87dd28912ade6442b6ba296b61b64c5c5cf44e57848eee5bb",
+  "notes": "• Faster AI: uses Gemini Flash-Lite first, waits less before switching, and only remembers models that answer quickly.",
   "nativeVersion": 5,
   "apkUrl": "fuel.apk",
-  "date": "2026-11-11T12:28:13.640Z"
+  "date": "2026-11-11T12:29:57.361Z"
 }
