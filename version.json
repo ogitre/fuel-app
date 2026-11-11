@@ -1,9 +1,9 @@
 {
-  "version": "1.0.12",
-  "url": "bundles/1.0.12.zip",
-  "checksum": "de792f52fb16e8e97c81db17431a712b04af6627e0f43fb5e3d92e265f9fc2c1",
-  "notes": "• New in Progress: personal tips based on your log and weigh-ins (plateaus, losing too fast, protein, weekends and more).\n• New: a Do and Don't list for your goal, plus how fast progress can realistically go.",
+  "version": "1.0.13",
+  "url": "bundles/1.0.13.zip",
+  "checksum": "236b080851049b576ccace73d234f141fce147bb42079dc00b7ec1264704539d",
+  "notes": "• Weekly grade no longer drops in the morning: today only counts once the day is over.",
   "nativeVersion": 5,
   "apkUrl": "fuel.apk",
-  "date": "2026-11-11T12:26:58.574Z"
+  "date": "2026-11-11T12:28:13.640Z"
 }
