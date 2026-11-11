@@ -1,9 +1,9 @@
 {
-  "version": "1.0.11",
-  "url": "bundles/1.0.11.zip",
-  "checksum": "bbda07d9dd9127b71e02427e5a313fbbe5d4de302541708e4ee036f2a68b87cd",
-  "notes": "• New: paste your workout plan and daily routine and AI picks your activity level and protein target. In Settings → Profile & goal → Activity → 'Let AI decide'.",
+  "version": "1.0.12",
+  "url": "bundles/1.0.12.zip",
+  "checksum": "de792f52fb16e8e97c81db17431a712b04af6627e0f43fb5e3d92e265f9fc2c1",
+  "notes": "• New in Progress: personal tips based on your log and weigh-ins (plateaus, losing too fast, protein, weekends and more).\n• New: a Do and Don't list for your goal, plus how fast progress can realistically go.",
   "nativeVersion": 5,
   "apkUrl": "fuel.apk",
-  "date": "2026-11-07T15:53:31.872Z"
+  "date": "2026-11-11T12:26:58.574Z"
 }
